@@ -1,0 +1,15 @@
+
+
+{
+    "user": {
+      "username": "PacienteNachoker",
+      "email": "PacienteNachoker@gmail.com",
+      "password": "123123123"
+    },
+    "paciente": {
+      "cesfam": "Cesfam Example",
+      "sintomas": "Dolor de cabeza",
+      "peso": 70,
+      "esperando": false
+    }
+  }
